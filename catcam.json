@@ -1,0 +1,7 @@
+{
+  "telegramToken":"",
+  "ftpPort": 21,
+  "ftpUsername": "root",
+  "ftpPassword": "root",
+  "allowedChatIds": "111111111"
+}
